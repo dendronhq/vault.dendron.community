@@ -2,7 +2,7 @@
 id: xG06XjLbPH1yn03rOT5dE
 title: Root
 desc: ''
-updated: 1643077173269
+updated: 1643077227320
 created: 1643046665282
 ---
 
@@ -34,5 +34,6 @@ Some action items for everyone (please 👍 if you've been able to complete thes
     - for now, feel free to create an empty note with "hello world" to make sure things are working
     - example: [[Priorities|dendron://dendron.community/user.kevin.journal.2022.01.24#priorities]]
 - [ ] when you are done with changes, run [[Workspace Sync|dendron://dendron.dendron-site/dendron.topic.teams#workspace-sync]] to sync it together
+
 
 
