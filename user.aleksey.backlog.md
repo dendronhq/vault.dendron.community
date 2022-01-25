@@ -2,7 +2,7 @@
 id: xvfvbb8xgTk0gHlYSrFEm
 title: Backlog
 desc: ''
-updated: 1643078520983
+updated: 1643081110665
 created: 1643077961430
 ---
 
@@ -14,11 +14,11 @@ created: 1643077961430
 -   Here is the view fo all CROP issues: [ref.crop.public - Airtable](https://airtable.com/shrnIyOMe5mO32gHN)
 -   public issues project: [Build software better, together](https://github.com/orgs/dendronhq/projects/7)
 -   Github CROP search: [Issues · dendronhq/dendron](https://github.com/dendronhq/dendron/labels/kind.crop)
-    [[dendron://dendron.community/user.aleksey]]
 
 ### Tasks
 
 -   [ ] pick 3 CROP candidates to share this Wednesday (26th)
+-   [ ] post CROP candidates to the feedback channel on Wednesday
 -   [ ] think about better method (manual/automatic) for selecting CROP candidates for voting
 -   [ ] go over the full list of issues and look for CROP-worthy ones
 
