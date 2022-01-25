@@ -2,7 +2,7 @@
 id: xvfvbb8xgTk0gHlYSrFEm
 title: Backlog
 desc: ''
-updated: 1643134405019
+updated: 1643153800663
 created: 1643077961430
 ---
 
@@ -10,15 +10,15 @@ created: 1643077961430
 
 ### Links
 
-- Here's it he view of all public issues on github: [ref.issue.public - Airtable](https://airtable.com/shrEs45MHwoEF6Bzp/tblEKgeLwxRTwUWil)
-- Here is the view fo all CROP issues: [ref.crop.public - Airtable](https://airtable.com/shrnIyOMe5mO32gHN)
-- public issues project: [Build software better, together](https://github.com/orgs/dendronhq/projects/7)
-- Github CROP search: [Issues · dendronhq/dendron](https://github.com/dendronhq/dendron/labels/kind.crop)
+-   Here's it he view of all public issues on github: [ref.issue.public - Airtable](https://airtable.com/shrEs45MHwoEF6Bzp/tblEKgeLwxRTwUWil)
+-   Here is the view fo all CROP issues: [ref.crop.public - Airtable](https://airtable.com/shrnIyOMe5mO32gHN)
+-   public issues project: [Build software better, together](https://github.com/orgs/dendronhq/projects/7)
+-   Github CROP search: [Issues · dendronhq/dendron](https://github.com/dendronhq/dendron/labels/kind.crop)
 
 ### Tasks
 
-- [ ] post CROP candidates to the feedback channel on Wednesday
-- [ ] think about better method (manual/automatic) for selecting CROP candidates for voting
-- [ ] go over the full list of issues and look for CROP-worthy ones
+-   [ ] post CROP candidates to the `#feedback` channel on Wednesday; user [[user.aleksey.crop-template]]
+-   [ ] think about better method (manual/automatic) for selecting CROP candidates for voting
+-   [ ] go over the full list of issues and look for CROP-worthy ones
 
 ## Docs
