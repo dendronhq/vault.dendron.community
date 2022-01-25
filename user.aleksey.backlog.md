@@ -2,7 +2,7 @@
 id: xvfvbb8xgTk0gHlYSrFEm
 title: Backlog
 desc: ''
-updated: 1643153800663
+updated: 1643154573800
 created: 1643077961430
 ---
 
@@ -17,7 +17,6 @@ created: 1643077961430
 
 ### Tasks
 
--   [ ] post CROP candidates to the `#feedback` channel on Wednesday; user [[user.aleksey.crop-template]]
 -   [ ] think about better method (manual/automatic) for selecting CROP candidates for voting
 -   [ ] go over the full list of issues and look for CROP-worthy ones
 
