@@ -2,7 +2,7 @@
 id: ErhsbnmEHZEclL7VTNnxc
 title: Docs issue forms
 desc: ''
-updated: 1643148432474
+updated: 1643148712563
 created: 1643139804748
 ---
 
@@ -63,9 +63,9 @@ body:
 
 - [ ] Check with [foureyedsoul#0796] and [dendronhq] whether assigning both of us by default is fine
 - [ ] Uncomment "checkboxes" section when [[Code of Conduct|rfc.39-dendrologists.ref.community-guidelines#future-tasks]] is ready
+- Currently, body.ref.value needs to be customized for each repo :/
 
 ## Discussion
 
 - Do you agree that OS and versions (of VS Code, Dendron, CLI, node, npm, etc.) may be omitted for this issue type, to simplify the form and improve conversion?
-- Currently, body.ref.value needs to be customized for each repo :/
-- Which persona do we imagine the typical "docs issue reporter" to have - a Dendron-publishing power user with a multi-vault workspace as well as native ones; a curious manager without admin rights on his device checking out the website for his team; (where) in between such extremes?
+- Which persona do we imagine the typical "docs issue reporter" to have - a Dendron-publishing power user with a multi-vault workspace as well as native ones; a curious manager without admin rights on his device checking out the wiki to find solutions for improving his/her/their teams knowledge sharing; somewhere (where?) in between such extremes?
