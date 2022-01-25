@@ -2,14 +2,14 @@
 id: ErhsbnmEHZEclL7VTNnxc
 title: Docs issue forms
 desc: ''
-updated: 1643148712563
+updated: 1643148979190
 created: 1643139804748
 ---
 
 ## Research
 
 - [GitHub Docs - Creating issue forms](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-forms)
-- Prefill issue like `https://github.com/Automattic/wp-calypso/issues/new?labels[]=People%20Management&labels[]=[Type]%20Bug&title=People:&milestone=People%20Management:%20m6&assignee=ebinnion&body=This%20is%20a%20prefilled%20issue`
+- Prefill issue like `https://github.com/dendronhq/dendron-site/issues/new?ref=$referer&...`
 
 ## WIP
 
