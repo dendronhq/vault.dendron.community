@@ -2,7 +2,7 @@
 id: ErhsbnmEHZEclL7VTNnxc
 title: Docs issue forms
 desc: ''
-updated: 1643148979190
+updated: 1643202711748
 created: 1643139804748
 ---
 
@@ -68,4 +68,21 @@ body:
 ## Discussion
 
 - Do you agree that OS and versions (of VS Code, Dendron, CLI, node, npm, etc.) may be omitted for this issue type, to simplify the form and improve conversion?
+
+  > good for me
+
+  - Source <https://discord.com/channels/717965437182410783/933936685832601770/935670943232188447>
+
 - Which persona do we imagine the typical "docs issue reporter" to have - a Dendron-publishing power user with a multi-vault workspace as well as native ones; a curious manager without admin rights on his device checking out the wiki to find solutions for improving his/her/their teams knowledge sharing; somewhere (where?) in between such extremes?
+
+  > good question. might be good to scan past docs PR to get a sense. also wouldn't necessarily bias towards that (we want to make it simpler for folks to either directly contribute docs or make suggestions so making it easier for more people). that being said, about 50% of our user base is developers  so that's a good starting point
+  
+  - Source <https://discord.com/channels/717965437182410783/933936685832601770/935670943232188447>
+
+## Feedback
+
+> also, not saying at all we need to do this for docs - when creating issues for dendron, we have this template: https://github.com/dendronhq/dendron/blob/master/.github/ISSUE_TEMPLATE/feature_request.md#L13:L13
+>
+> we also have an issue labeler that attaches labels. is it worthwile to do that for docs? if so, feel free to use the above as a starting point
+
+- Source <https://discord.com/channels/717965437182410783/933936685832601770/935671396015673404>
