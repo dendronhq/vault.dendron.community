@@ -2,13 +2,13 @@
 id: PkXP40C0I1nazuG1X3syv
 title: '26'
 desc: ''
-updated: 1643154724302
+updated: 1643215257988
 created: 1643154487611
 ---
 
 ## Tasks
 
--   [ ] post CROP candidates to the `#feedback` channel on Wednesday; use [[user.aleksey.crop-template]]
+-   [x] post CROP candidates to the `#feedback` channel on Wednesday; use [[sop.crop-community-issue.temp]]
 
 ## CROP
 
