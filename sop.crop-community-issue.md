@@ -2,7 +2,7 @@
 id: bc9c06a1-a871-45aa-a0da-38e862eaaa50
 title: Crop Issue SOP
 desc: ''
-updated: 1643215223558
+updated: 1643215805812
 created: 1621162987765
 ---
 
@@ -26,7 +26,7 @@ This is publicly documented at [[dev.process.issues]].
 2. Send out the discord message in the #feedback channel on Wednesday using the [[CROP template|dendron://dendron.community/sop.crop-community-issue.temp]]
     - after sending the message, add the following reactions to the message 1️⃣2️⃣3️⃣4️⃣
     - create a thread for the message for people to post their suggestion for the fourth option.
-3. When voting is done, move the winning CROP into the 'In Progress' column of the [[Dendron Community Issues Board|dendron://dendron.community/ref.github#dendron-community-issues-board]]
+3. When voting is done (next Monday), move the winning CROP into the 'In Progress' column of the [[Dendron Community Issues Board|dendron://dendron.community/ref.github#dendron-community-issues-board]]
    [[Active|dendron://private/dendron.tasks.crop#active]]
 
 ## Templates
