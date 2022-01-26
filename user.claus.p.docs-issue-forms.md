@@ -2,7 +2,7 @@
 id: ErhsbnmEHZEclL7VTNnxc
 title: Docs issue forms
 desc: ''
-updated: 1643202711748
+updated: 1643220771391
 created: 1643139804748
 ---
 
@@ -86,3 +86,7 @@ body:
 > we also have an issue labeler that attaches labels. is it worthwile to do that for docs? if so, feel free to use the above as a starting point
 
 - Source <https://discord.com/channels/717965437182410783/933936685832601770/935671396015673404>
+
+> Would an issue template with that information lead to too much cognitive load? Or would it ultimately be more helpful over time?
+
+- Source <https://discord.com/channels/717965437182410783/933936685832601770/935946154363985983>
