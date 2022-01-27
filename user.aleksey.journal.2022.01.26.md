@@ -2,7 +2,7 @@
 id: PkXP40C0I1nazuG1X3syv
 title: '26'
 desc: ''
-updated: 1643215257988
+updated: 1643248877845
 created: 1643154487611
 ---
 
@@ -20,3 +20,9 @@ created: 1643154487611
 4. None of these (if there's an issue you'd like to add to rotation, please reply with a github issue).
 
 To vote, respond with a 1️⃣ 2️⃣ 3️⃣ or 4️⃣ to this message. _Voting closes Monday at noon Pacific Time_.
+
+## Other
+
+-   potential duplicates
+    -   [Set default frontmatter from schema · Issue #253 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/253)
+    -   [Set title of schema-instance automatically · Issue #2275 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/2275)
