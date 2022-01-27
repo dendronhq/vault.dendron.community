@@ -2,14 +2,14 @@
 id: ErhsbnmEHZEclL7VTNnxc
 title: Docs issue forms
 desc: ''
-updated: 1643220995978
+updated: 1643227972470
 created: 1643139804748
 ---
 
 ## Research
 
 - [GitHub Docs - Creating issue forms](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#creating-issue-forms)
-- Prefill issue like `https://github.com/dendronhq/dendron-site/issues/new?ref=$referer&...`
+- [Prefill form](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue#creating-an-issue-from-a-url-query) like `https://github.com/octo-org/octo-repo/issues/new?labels=bug&title=New+bug+report`
 
 ## WIP
 
@@ -18,7 +18,6 @@ Path `.github/ISSUE_TEMPLATE/documentation.yml`
 ```yaml
 name: Documentation Issue
 description: Report a bug in the documentation or suggest a documentation update here
-title: "[Docs]: "
 labels: ["docs"]
 assignees:
   - ryan-p-randall
@@ -28,10 +27,9 @@ body:
     id: ref
     attributes:
       label: Which page/note should be improved?
-      description: |
-        Unless this is a general issue, please paste a link to the page that your issue is about (or the relative path to the note, or the note ID):
-      placeholder: URL or note
-      value: 'https://wiki.dendron.so/…'
+      description: "Unless this is a general issue, please paste a link to the page that it is about (alternatively the relative path to the note file or the note ID):"
+      placeholder: URL (or note ref)
+      value: "https://wiki.dendron.so/…"
   - type: textarea
     id: desc
     attributes:
@@ -61,9 +59,12 @@ body:
 
 ## Issues
 
+- [x] Check if issue titles on dendronhq/dendron have prefixes (e.g. "[Bug]: ")
+- [ ] Test if the colons make sense in the UI
 - [ ] Check with [foureyedsoul#0796] and [dendronhq] whether assigning both of us by default is fine
 - [ ] Uncomment "checkboxes" section when [[Code of Conduct|rfc.39-dendrologists.ref.community-guidelines#future-tasks]] is ready
 - Currently, body.ref.value needs to be customized for each repo :/
+- JavaScript 
 
 ## Discussion
 
