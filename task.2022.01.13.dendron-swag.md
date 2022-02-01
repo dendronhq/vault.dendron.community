@@ -13,7 +13,7 @@ tags:
 status: ''
 due: ''
 priority: ''
-owner: 'kevin'
+owner: kevin
 creator: kevin
 issue: ''
 pr: ''

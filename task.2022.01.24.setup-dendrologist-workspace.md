@@ -10,7 +10,7 @@ tags:
   - sprint
   - kind
   - size
-status: 'b'
+status: b
 due: ''
 priority: ''
 owner: ''
