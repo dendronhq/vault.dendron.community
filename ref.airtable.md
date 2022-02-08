@@ -2,17 +2,17 @@
 id: uRtC5iMjtGFLC8UiR0CZK
 title: Airtable
 desc: ''
-updated: 1644345242186
+updated: 1644356470986
 created: 1643164120738
 ---
 
 ## Issues
 
 ### CROP Issues
-- url: https://airtable.com/shrt8fDGz2SDWZwW9
+- url: https://airtable.com/shr4hObaoyWqCtmN4
 
 ### Good First Issue View
-- url: https://airtable.com/shryFkUkf4t1kU9sy
+- url: https://airtable.com/shr0gjptNlzqEbCfS
 
 ## Surveys
 
