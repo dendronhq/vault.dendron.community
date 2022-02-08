@@ -2,7 +2,7 @@
 id: xvfvbb8xgTk0gHlYSrFEm
 title: Backlog
 desc: ''
-updated: 1644292122217
+updated: 1644350083997
 created: 1643077961430
 ---
 
@@ -18,7 +18,11 @@ created: 1643077961430
 ### Tasks
 
 -   [ ] think about better method (manual/automatic) for selecting CROP candidates for voting
--   [ ] go over the full list of issues and look for CROP-worthy ones
+-   [w] go over the full list of issues and look for CROP-worthy ones
+-   [ ] start a log of CROPs in [[community.events.crop]]
+    -   PR or push directly to wiki site?
+-   [ ] close #238 and open a new for a default behavour when copying link (include title or not); also mark it as [[tags.sprint.crop]]
+-   [ ] update found CROP candidates with labels suggested by @kevin <https://discord.com/channels/717965437182410783/940636227160379504/940643811544137818>
 
 ### Questions
 
@@ -36,9 +40,8 @@ created: 1643077961430
     -   [Advanced Queries · Issue #159 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/159)
 -   no labels (easier to find with Github search)
     -   [Unlabeled Issues · dendronhq/dendron](https://github.com/dendronhq/dendron/issues?q=is:open+is:issue+no:label)
--   preview navigation (apparently this was asked by a lot of people)
-    -   [Navigating back to previous notes linking the current one in the MD preview pane · Issue #236 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/236)
 -   potential CROP (ask)
+    -   [Navigating back to previous notes linking the current one in the MD preview pane · Issue #236 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/236) - preview navigation (apparently this was asked by a lot of people)
     -   [Add commands to generate relative daily notes · Issue #2242 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/2242)
     -   [Propagate changes to the `title` metadata to wikilinks that have the label set to the old value · Issue #238 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/238)
     -   [Reference to a linked list of notes · Issue #292 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/292)
