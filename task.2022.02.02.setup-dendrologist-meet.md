@@ -2,12 +2,12 @@
 id: 0Ym2NQQNppPLiUvMhNFYI
 title: Setup Dendrologist Meet
 desc: ''
-updated: 1644344120509
+updated: 1644349119398
 created: 1643818261612
 tags:
   - scope.community
   - type.other
-status: blocked
+status: released
 due: ''
 priority: ''
 owner: kevin
@@ -29,3 +29,11 @@ Gives as a place to take notes as well as leave notes ahead of time (this is how
 - crops
   - more visibility into task backlog
   - more visibility into crop backlog
+
+## Agenda
+- go over some highlights
+- next steps
+- how can we do better?
+
+## Next
+- [[dendrologist 02 meet followups|task.2022.02.08.dendrologist-02-meet-followups]]

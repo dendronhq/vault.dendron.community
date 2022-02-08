@@ -2,7 +2,7 @@
 id: uRtC5iMjtGFLC8UiR0CZK
 title: Airtable
 desc: ''
-updated: 1644344938865
+updated: 1644345242186
 created: 1643164120738
 ---
 
