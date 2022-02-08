@@ -2,7 +2,7 @@
 id: ErhsbnmEHZEclL7VTNnxc
 title: Docs issue forms
 desc: ''
-updated: 1643227972470
+updated: 1644346503730
 created: 1643139804748
 ---
 
@@ -26,23 +26,60 @@ body:
   - type: input
     id: ref
     attributes:
-      label: Which page/note should be improved?
-      description: "Unless this is a general issue, please paste a link to the page that it is about (alternatively the relative path to the note file or the note ID):"
+      label: Which docs page should be improved?
+      description: "Unless this is a general issue, please paste a link to the page that it is about:"
       placeholder: URL (or note ref)
       value: "https://wiki.dendron.so/…"
+  - type: checkboxes
+    id: action
+    attributes:
+      label: Which area does your issue apply to?
+      description: Multiple selections are possible - leave blank if unsure.
+      options:
+        - label: 'Basics: Fundamental Dendron features, installation, getting started etc.'
+        - label: 'Editing: Editing your notes, Markdown, frontmatter, images, templates, links, note refs, etc.'
+        - label: 'Retrieving: Finding your notes, lookup, lookup modifiers, etc.'
+        - label: 'Navigating: Navigating across notes, graph view, go to shortcuts, etc.'
+        - label: 'Organizing: Maintaining your notes, hierarchies, schemas, journals, tags, users, tasks, special notes, vaults, workspaces, multi-vault, etc.'
+        - label: 'Refactoring: Restructuring your notes, Dendron Doctor, refactor hierarchy, move/rename notes, rename header, etc.'
+        - label: 'Sharing: Publishing and sharing your notes, git, team workflows, etc.'
+        - label: 'Transferring/syncing: Importing/exporting your notes, pods, etc.'
+        - label: Extending note and workspace functionality, note type system, note traits, hooks, custom pods, etc.
+        - label: Dendron community
+        - label: Other (please describe in the issue description below)
+  - type: checkboxes
+    id: area
+    attributes:
+      label: What should be fixed/improved?
+      description: Multiple selections are possible
+      options:
+        - label: Fix outdated docs
+        - label: Extend docs (tutorials, workflows, etc.)
+        - label: Add docs (new features, etc.)
+        - label: Clarification needed
+        - label: Add/update screenshots
+        - label: Fix broken formatting, wikilink, and/or note references
+        - label: Other (please describe in the issue description below)
   - type: textarea
     id: desc
     attributes:
       label: Issue description
-      description: |
-        **Please describe, as clear and concise as possible, how the documentation can be improved - for example:**
+      description: |2
+        **Please describe, as clear and concise as possible, where the documentation can be improved - for example:**
         * Was the documentation incorrect for your/the most recent version of Dendron?
         * Outdated screenshots or movies?
-        * Anything that needs to be phrased more clearly?
         * Did the documentation contain invalid usage examples, e.g. missing/renamed commands?
-        * Is there something you would like added to the documentation?
+        * Feel free to attach screenshots
     validations:
       required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested fix, improvements or additions
+      description: |2
+        **Please describe, as clear and concise as possible, if you have suggestions on how the issue can be solved - for example:**
+        * Anything that needs to be phrased more clearly?
+        * Is there something you would like added to the documentation?
 #  - type: checkboxes
 #    id: terms
 #    attributes:
