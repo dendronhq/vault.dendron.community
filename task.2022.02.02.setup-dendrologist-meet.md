@@ -2,7 +2,7 @@
 id: 0Ym2NQQNppPLiUvMhNFYI
 title: Setup Dendrologist Meet
 desc: ''
-updated: 1644025313603
+updated: 1644344120509
 created: 1643818261612
 tags:
   - scope.community
@@ -26,3 +26,6 @@ As part of the meeting, I've created the following google doc for notes: https:/
 Gives as a place to take notes as well as leave notes ahead of time (this is how we do planning at dendron), see [[Before Meeting|dendron://dendron.handbook/templates.weekly-planning.user#before-meeting]]
 
 
+- crops
+  - more visibility into task backlog
+  - more visibility into crop backlog
