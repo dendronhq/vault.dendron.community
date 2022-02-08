@@ -2,7 +2,7 @@
 id: xvfvbb8xgTk0gHlYSrFEm
 title: Backlog
 desc: ''
-updated: 1643770101597
+updated: 1644292122217
 created: 1643077961430
 ---
 
@@ -39,10 +39,17 @@ created: 1643077961430
 -   preview navigation (apparently this was asked by a lot of people)
     -   [Navigating back to previous notes linking the current one in the MD preview pane · Issue #236 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/236)
 -   potential CROP (ask)
+    -   [Add commands to generate relative daily notes · Issue #2242 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/2242)
     -   [Propagate changes to the `title` metadata to wikilinks that have the label set to the old value · Issue #238 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/238)
+    -   [Reference to a linked list of notes · Issue #292 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/292)
+    -   [Make a toggle to make a note read only or not · Issue #320 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/320)
+    -   [Help with image attribution after copy / paste · Issue #324 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/324)
+    -   [Flatten journal notes in tree view · Issue #326 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/326)
+    -   [Sorting Lookup results by modified date/name, ascending or descending · Issue #330 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/330)
+    -   [Optional backlinks section in notes markdown files · Issue #349 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/349)
 -   UX
     -   [Graphical Schema Editor · Issue #249 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/249)
 -   check if still a problem
     -   [refactoring has a problem with mixed-case filenames · Issue #250 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/250)
 
-## Docs
+stopped at 355
