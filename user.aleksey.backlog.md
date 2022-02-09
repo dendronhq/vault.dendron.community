@@ -2,7 +2,7 @@
 id: xvfvbb8xgTk0gHlYSrFEm
 title: Backlog
 desc: ''
-updated: 1644350083997
+updated: 1644437232276
 created: 1643077961430
 ---
 
@@ -21,8 +21,7 @@ created: 1643077961430
 -   [w] go over the full list of issues and look for CROP-worthy ones
 -   [ ] start a log of CROPs in [[community.events.crop]]
     -   PR or push directly to wiki site?
--   [ ] close #238 and open a new for a default behavour when copying link (include title or not); also mark it as [[tags.sprint.crop]]
--   [ ] update found CROP candidates with labels suggested by @kevin <https://discord.com/channels/717965437182410783/940636227160379504/940643811544137818>
+-   [ ] #238 talks about propagating changes to the `title` property, not when renaming notes; I got confused
 
 ### Questions
 
@@ -55,4 +54,4 @@ created: 1643077961430
 -   check if still a problem
     -   [refactoring has a problem with mixed-case filenames · Issue #250 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/250)
 
-stopped at 355
+stopped at 357
