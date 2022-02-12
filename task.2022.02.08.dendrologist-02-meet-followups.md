@@ -2,7 +2,7 @@
 id: E3Z7SwuRHGeRtTAvGcwrj
 title: Dendrologist 02 Meet Followups
 desc: ''
-updated: 1644356521944
+updated: 1644611090262
 created: 1644349111610
 tags:
   - scope
@@ -27,6 +27,10 @@ userIssueId: ''
 ## Example
 
 ## Tasks
-- communicate about updated airtable linsk
+- [[coordinate with ben on garden stewart 02 followup|task.2022.02.11.coordinate-with-ben-on-garden-stewart-02-followup]]
+- ~ coordinate with aleksey
+- [[coordinate with luke on 02 followup|task.2022.02.11.coordinate-with-luke-on-02-followup]]
 
-## Lookup
+
+
+BitCrusher#9178
