@@ -1,11 +1,13 @@
 ---
 id: WVIvKDe7XejoxW6oAiM0w
-title: 01 Dendro Dev Focus
+title: 01 Dendro Dev Focus Setup
 desc: ''
-updated: 1643320299027
+updated: 1644777520818
 created: 1642706608648
-startDate: 'TODO: date to start'
-endDate: 'TODO: when project ends'
+startDate: '2022-01-20'
+endDate: '2022-02-30'
+owner: kevin
+status: wip
 airtableId: rec1cNo2ii0uGYWma
 ---
 
@@ -26,4 +28,4 @@ Setup initial and recurring task for [[Contributors|dendron://dendron.docs/rfc.3
 ## Tasks
 
 - [[Pr Improvement Feedback|task.2022.01.17.pr-improvement-feedback]]
-- [ ] [[end to end tutorial of doing a "hello world" pull request to dendron|task.2022.01.20.end-to-end-tutorial-of-doing-a-hello-world-pull-request-to-dendron]]
+- [[end to end tutorial of doing a "hello world" pull request to dendron|task.2022.01.20.end-to-end-tutorial-of-doing-a-hello-world-pull-request-to-dendron]]
