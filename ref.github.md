@@ -2,13 +2,12 @@
 id: DlPcw25qDQBJ2SWibL9Z1
 title: GitHub
 desc: ''
-updated: 1644345266264
+updated: 1644783767189
 created: 1643163195846
 ---
 
 ### Dendron Community Issues Board
 - url: https://github.com/orgs/dendronhq/projects/7
-
 
 ### Dendron Community Gardens Board
 - url: https://github.com/orgs/dendronhq/projects/8
