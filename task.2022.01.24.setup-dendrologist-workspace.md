@@ -2,31 +2,20 @@
 id: 4km75WRtAWXql6JwwlV7p
 title: Setup Dendrologist Workspace
 desc: ''
-updated: 1643077507614
+updated: 1644773224749
 created: 1643077484053
 tags:
-  - scope
-  - type
+  - scope.growth.community
+  - type.chore
   - sprint
   - kind
   - size
-status: b
+status: released
 due: ''
 priority: ''
-owner: ''
-creator: null
+owner: kevin
+creator: kevin
 issue: ''
 pr: ''
+airtableId: recM3V1kG4M73AH93
 ---
-
-## Summary
-
-## Details
-
-## Example
-
-## Tasks
-
-
-## Lookup
-
