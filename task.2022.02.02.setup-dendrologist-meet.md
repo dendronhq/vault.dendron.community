@@ -5,7 +5,7 @@ desc: ''
 updated: 1644349119398
 created: 1643818261612
 tags:
-  - scope.community
+  - scope.growth.community
   - type.other
 status: released
 due: ''

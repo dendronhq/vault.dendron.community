@@ -5,7 +5,7 @@ desc: ''
 updated: 1644777800387
 created: 1642128425359
 tags:
-  - scope.community
+  - scope.growth.community
   - type.other
   - sprint.active
   - kind
