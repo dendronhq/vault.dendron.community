@@ -2,10 +2,12 @@
 id: CjZKqZJROghpMl9Thwq31
 title: 01 Dendron Issue Focus
 desc: ''
-updated: 1643076024405
+updated: 1644779861899
 created: 1642709963010
-startDate: 'TODO: date to start'
-endDate: 'TODO: when project ends'
+startDate: '2022-01-20'
+endDate: '2022-02-30'
+owner: kevin
+status: wip
 airtableId: recNivgScnZrrIWOD
 ---
 
@@ -13,9 +15,15 @@ airtableId: recNivgScnZrrIWOD
 
 Setup initial and recurring tasks for [[Issues|dendron://dendron.docs/rfc.39-dendrologists.ref.issues]]
 
+## Success Criteria
+- setup recurring crops
+- finish initial task
+- setup backlog
+
 ## Tasks
-- [ ] respond to discussion about crops
+- [x] respond to discussion about crops
 - [[review process for ranking crops|task.2022.01.20.review-process-for-ranking-crops]]
+- [x] setup backlog
 
 ## Notes
 
