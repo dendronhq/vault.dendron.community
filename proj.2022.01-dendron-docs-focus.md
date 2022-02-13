@@ -2,11 +2,13 @@
 id: t1S6GP759E5tta67bU8PX
 title: 01 Dendron Docs Focus
 desc: ''
-updated: 1642733066085
+updated: 1644778900955
 created: 1642723738167
-startDate: 'TODO: date to start'
-endDate: 'TODO: when project ends'
+startDate: '2022-01-20'
+endDate: '2022-02-28'
 airtableId: rec6s2BdgNoBmdBDA
+owner: derek
+status: wip
 ---
 
 ## Goal

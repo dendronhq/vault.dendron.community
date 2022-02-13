@@ -1,12 +1,14 @@
 ---
 id: Mbd32H2D390d5o7dRMeK1
-title: 01 Dendron Events Focus
+title: 01 Dendron Events Focus Setup
 desc: ''
-updated: 1642735872732
+updated: 1644778879867
 created: 1642733937273
-startDate: 'TODO: date to start'
-endDate: 'TODO: when project ends'
+startDate: '2022-01-20'
+endDate: '2022-02-28'
 airtableId: recvns767WiEnUu1K
+owner: derek
+status: wip
 ---
 
 ## Goal
