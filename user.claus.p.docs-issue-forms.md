@@ -2,7 +2,7 @@
 id: ErhsbnmEHZEclL7VTNnxc
 title: Docs issue forms
 desc: ''
-updated: 1644346503730
+updated: 1644346736495
 created: 1643139804748
 ---
 
@@ -97,7 +97,7 @@ body:
 ## Issues
 
 - [x] Check if issue titles on dendronhq/dendron have prefixes (e.g. "[Bug]: ")
-- [ ] Test if the colons make sense in the UI
+- [x] Test if the colons make sense in the UI
 - [ ] Check with [foureyedsoul#0796] and [dendronhq] whether assigning both of us by default is fine
 - [ ] Uncomment "checkboxes" section when [[Code of Conduct|rfc.39-dendrologists.ref.community-guidelines#future-tasks]] is ready
 - Currently, body.ref.value needs to be customized for each repo :/
