@@ -2,7 +2,7 @@
 id: xvfvbb8xgTk0gHlYSrFEm
 title: Backlog
 desc: ''
-updated: 1644437232276
+updated: 1644896132676
 created: 1643077961430
 ---
 
@@ -39,7 +39,7 @@ created: 1643077961430
     -   [Advanced Queries · Issue #159 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/159)
 -   no labels (easier to find with Github search)
     -   [Unlabeled Issues · dendronhq/dendron](https://github.com/dendronhq/dendron/issues?q=is:open+is:issue+no:label)
--   potential CROP (ask)
+-   confirmed CROP
     -   [Navigating back to previous notes linking the current one in the MD preview pane · Issue #236 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/236) - preview navigation (apparently this was asked by a lot of people)
     -   [Add commands to generate relative daily notes · Issue #2242 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/2242)
     -   [Propagate changes to the `title` metadata to wikilinks that have the label set to the old value · Issue #238 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/238)
@@ -49,9 +49,31 @@ created: 1643077961430
     -   [Flatten journal notes in tree view · Issue #326 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/326)
     -   [Sorting Lookup results by modified date/name, ascending or descending · Issue #330 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/330)
     -   [Optional backlinks section in notes markdown files · Issue #349 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/349)
+-   potential CROP (ask)
+    -   [Conditional template syntax · Issue #357 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/357)
+    -   [[Feature Request] Port Tinymind to Dendron's Markdown Preview Enhanced to render nested text as mindmaps. · Issue #368 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/368)
+    -   [code snippets in multi-vault setup · Issue #376 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/376)
+    -   [Markdown Highlight Syntax not working in published Github page · Issue #381 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/381)
+    -   [Schema template refactoring · Issue #390 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/390)
+    -   [Lookup should search title, description (not just filename) · Issue #394 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/394) -[Consolidated tree view in a multi-vault environment · Issue #399 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/399)
+    -   [Auto-complete in Rename Note menu? · Issue #405 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/405)
 -   UX
     -   [Graphical Schema Editor · Issue #249 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/249)
+    -   ["Open Editors" panel that uses Frontmatter title (instead of file name) · Issue #412 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/412)
 -   check if still a problem
     -   [refactoring has a problem with mixed-case filenames · Issue #250 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/250)
+    -   [Publishing 2.0 · Issue #340 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/340)
+    -   ["Dendron: Show Note Graph" doesn't prune branch upon leaf note deletion · Issue #359 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/359)
+-   check after a while and mark as info-needed if no response
+    -   [Markdown list UX improvements · Issue #401 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/401)
+-   rename command
+    -   [Add auto-complete when renaming with `F2` · Issue #2393 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/2393)
+    -   [Auto-complete in Rename Note menu? · Issue #405 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/405)
 
-stopped at 357
+---
+
+-   [ ] close <https://github.com/dendronhq/dendron/issues/1393> upvote <https://github.com/dendronhq/dendron/issues/381>
+
+---
+
+stopped at 415
