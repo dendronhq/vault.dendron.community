@@ -2,13 +2,13 @@
 id: W0cG2ju8J1cKT0wdt4o2s
 title: wikilinkToURLs and Publishing Vault Configurations
 desc: ''
-updated: 1645130784238
+updated: 1645130969463
 created: 1645130003031
 tags:
   - scope.publish
   - type.feature
   - sprint
-  - kind
+  - kind.crop
   - size
 status: ''
 priority: ''
