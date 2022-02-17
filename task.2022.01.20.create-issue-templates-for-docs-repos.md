@@ -2,11 +2,11 @@
 id: 8JNdYpnY42nFY8minwez9
 title: Create Issue Templates for Docs Repos
 desc: ''
-updated: 1642725959521
+updated: 1645074705550
 created: 1642724623791
 tags:
-  - scope.docs
-  - type.chore
+  - scope.growth.community
+  - type.doc
   - sprint
   - kind.focus.docs
   - size.medium
