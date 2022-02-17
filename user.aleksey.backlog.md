@@ -2,7 +2,7 @@
 id: xvfvbb8xgTk0gHlYSrFEm
 title: Backlog
 desc: ''
-updated: 1644896132676
+updated: 1645126797453
 created: 1643077961430
 ---
 
@@ -57,6 +57,8 @@ created: 1643077961430
     -   [Schema template refactoring · Issue #390 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/390)
     -   [Lookup should search title, description (not just filename) · Issue #394 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/394) -[Consolidated tree view in a multi-vault environment · Issue #399 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/399)
     -   [Auto-complete in Rename Note menu? · Issue #405 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/405)
+-   obsolete
+    -   [Update Dendron Configure UI with latest configuration Values · Issue #416 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/416)
 -   UX
     -   [Graphical Schema Editor · Issue #249 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/249)
     -   ["Open Editors" panel that uses Frontmatter title (instead of file name) · Issue #412 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/412)
@@ -76,4 +78,4 @@ created: 1643077961430
 
 ---
 
-stopped at 415
+stopped at 422
