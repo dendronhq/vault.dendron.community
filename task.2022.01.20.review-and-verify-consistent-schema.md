@@ -2,11 +2,11 @@
 id: RHtMiO1vDayFphnSjbyQL
 title: Review and Verify Consistent Schema and Templates
 desc: ''
-updated: 1642733288814
+updated: 1645074543179
 created: 1642732882725
 tags:
-  - scope.docs
-  - type.chore
+  - scope.growth.community
+  - type.doc
   - sprint
   - kind.focus.docs
   - size
