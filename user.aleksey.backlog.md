@@ -2,7 +2,7 @@
 id: xvfvbb8xgTk0gHlYSrFEm
 title: Backlog
 desc: ''
-updated: 1645126797453
+updated: 1645149755830
 created: 1643077961430
 ---
 
@@ -22,6 +22,7 @@ created: 1643077961430
 -   [ ] start a log of CROPs in [[community.events.crop]]
     -   PR or push directly to wiki site?
 -   [ ] #238 talks about propagating changes to the `title` property, not when renaming notes; I got confused
+-   [ ] create an issue about alternative hierarchies for publishing <https://discord.com/channels/717965437182410783/752644230379470849/943922387626385408>
 
 ### Questions
 
@@ -57,6 +58,7 @@ created: 1643077961430
     -   [Schema template refactoring · Issue #390 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/390)
     -   [Lookup should search title, description (not just filename) · Issue #394 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/394) -[Consolidated tree view in a multi-vault environment · Issue #399 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/399)
     -   [Auto-complete in Rename Note menu? · Issue #405 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/405)
+    -   [Links to nonexistent notes are not updated by refactor · Issue #422 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/422)
 -   obsolete
     -   [Update Dendron Configure UI with latest configuration Values · Issue #416 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/416)
 -   UX
@@ -78,4 +80,4 @@ created: 1643077961430
 
 ---
 
-stopped at 422
+stopped at 442
