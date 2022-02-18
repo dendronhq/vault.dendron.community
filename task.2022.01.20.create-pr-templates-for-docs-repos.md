@@ -2,11 +2,11 @@
 id: 9hQj6ySoRsLTC2oIrpDjv
 title: Create PR Templates for Docs Repos
 desc: ''
-updated: 1642730191102
+updated: 1645074705551
 created: 1642726212000
 tags:
-  - scope.docs
-  - type.chore
+  - scope.growth.community
+  - type.doc
   - sprint
   - kind.focus.docs
   - size.medium

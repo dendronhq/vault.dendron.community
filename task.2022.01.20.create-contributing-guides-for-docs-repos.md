@@ -2,11 +2,11 @@
 id: 53H4qBLWvSRiUTdvyJzvp
 title: Create Contributing Guides for Docs Repos
 desc: ''
-updated: 1642739068770
+updated: 1645074705549
 created: 1642728017914
 tags:
-  - scope.docs
-  - type.chore
+  - scope.growth.community
+  - type.doc
   - sprint
   - kind.focus.docs
   - size.small

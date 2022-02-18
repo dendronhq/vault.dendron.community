@@ -5,7 +5,7 @@ desc: ''
 updated: 1642735808458
 created: 1642735583780
 tags:
-  - scope.community
+  - scope.growth.community
   - type.chore
   - sprint
   - kind.focus.events
