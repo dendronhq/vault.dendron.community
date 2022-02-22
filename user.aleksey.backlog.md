@@ -2,7 +2,7 @@
 id: xvfvbb8xgTk0gHlYSrFEm
 title: Backlog
 desc: ''
-updated: 1645149755830
+updated: 1645502150620
 created: 1643077961430
 ---
 
@@ -59,6 +59,8 @@ created: 1643077961430
     -   [Lookup should search title, description (not just filename) · Issue #394 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/394) -[Consolidated tree view in a multi-vault environment · Issue #399 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/399)
     -   [Auto-complete in Rename Note menu? · Issue #405 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/405)
     -   [Links to nonexistent notes are not updated by refactor · Issue #422 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/422)
+    -   [Support strict hierarchies through schema · Issue #588 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/588)
+    -   [Dendron doctor - get createddate from file attribute not now() · Issue #444 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/444)
 -   obsolete
     -   [Update Dendron Configure UI with latest configuration Values · Issue #416 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/416)
 -   UX
@@ -73,6 +75,8 @@ created: 1643077961430
 -   rename command
     -   [Add auto-complete when renaming with `F2` · Issue #2393 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/2393)
     -   [Auto-complete in Rename Note menu? · Issue #405 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/405)
+-   come back
+    -   437
 
 ---
 
@@ -80,4 +84,4 @@ created: 1643077961430
 
 ---
 
-stopped at 442
+stopped at 450
