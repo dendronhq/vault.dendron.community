@@ -2,7 +2,7 @@
 id: xvfvbb8xgTk0gHlYSrFEm
 title: Backlog
 desc: ''
-updated: 1645502150620
+updated: 1645581397564
 created: 1643077961430
 ---
 
@@ -50,6 +50,8 @@ created: 1643077961430
     -   [Flatten journal notes in tree view · Issue #326 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/326)
     -   [Sorting Lookup results by modified date/name, ascending or descending · Issue #330 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/330)
     -   [Optional backlinks section in notes markdown files · Issue #349 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/349)
+-   closed
+    -   ~~[Support strict hierarchies through schema · Issue #588 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/588)~~
 -   potential CROP (ask)
     -   [Conditional template syntax · Issue #357 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/357)
     -   [[Feature Request] Port Tinymind to Dendron's Markdown Preview Enhanced to render nested text as mindmaps. · Issue #368 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/368)
@@ -59,7 +61,6 @@ created: 1643077961430
     -   [Lookup should search title, description (not just filename) · Issue #394 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/394) -[Consolidated tree view in a multi-vault environment · Issue #399 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/399)
     -   [Auto-complete in Rename Note menu? · Issue #405 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/405)
     -   [Links to nonexistent notes are not updated by refactor · Issue #422 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/422)
-    -   [Support strict hierarchies through schema · Issue #588 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/588)
     -   [Dendron doctor - get createddate from file attribute not now() · Issue #444 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/444)
 -   obsolete
     -   [Update Dendron Configure UI with latest configuration Values · Issue #416 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/416)
