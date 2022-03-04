@@ -2,7 +2,7 @@
 id: xvfvbb8xgTk0gHlYSrFEm
 title: Backlog
 desc: ''
-updated: 1645640697322
+updated: 1646418006489
 created: 1643077961430
 ---
 
@@ -82,8 +82,6 @@ created: 1643077961430
     -   437
 
 ---
-
--   [ ] close <https://github.com/dendronhq/dendron/issues/1393> upvote <https://github.com/dendronhq/dendron/issues/381>
 
 ---
 
