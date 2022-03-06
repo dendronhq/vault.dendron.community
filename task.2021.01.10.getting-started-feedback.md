@@ -2,7 +2,7 @@
 id: AOdAUO1ctHhcu3A8DVyT8
 title: Address Getting Started Feedback
 desc: ''
-updated: 1646588884445
+updated: 1646589499057
 created: 1641846074996
 tags:
   - scope.basics
@@ -35,14 +35,14 @@ After the 2021 Q4 Getting Started Guide refresh, [GitHub Discussion feedback](ht
 
 - [x] Update hierarchy example
 - [ ] Expand [[dendron.tutorial]] opening to include blurb about different ways dendronites use Dendron (potentially add the root/README, and note ref?)
-- [ ] Update `Show Preview` for other methods of opening (button, and right-click). Also include that it works with any Markdown file.
-- [ ] Lookup: Tab autocomplete
-- [ ] Links: Tab autocomplete for headers
-- [ ] Conclusions: RFCs in the Wilderness section
+- [ ] Update `Show Preview` for other methods of opening (include using the button, and also right-click). Also include that it works with any Markdown file, not just Dendron notes.
+- [ ] Lookup: Should include tab autocomplete
+- [ ] Links: Should include tab autocomplete for headers
+- [ ] Conclusions: Add link to RFCs in the Wilderness section
   - What section would this be under?
-- [ ] Conclusions: VSCode, VSCode Extensions, and git/github links
+- [ ] Conclusions: Include links to VS Code, VSCode Extensions, and git/github topic/links. This could also include `awesome-dendron`, or sections of docs that include `awesome-dendron`.
 - [ ] Contextual UI (Quick Fix) tips
-  - [ ] Refactoring section of tutorial
+  - [ ] Refactoring section of tutorial should expand to include Contextual UI (Quick Fix) tips around the lightbult icon in the editor.
   - [x] [[Rename Note|dendron://dendron.dendron-site/dendron.topic.refactoring#rename-note]]
   - [x] [[Header Selection|dendron://dendron.dendron-site/dendron.ref.commands#header-selection]]
   - [x] [[Copy Header Reference|dendron://dendron.dendron-site/dendron.ref.commands#copy-header-reference]]
