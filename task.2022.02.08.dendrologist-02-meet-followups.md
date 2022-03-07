@@ -20,17 +20,8 @@ pr: ''
 userIssueId: ''
 ---
 
-## Summary
-
-## Details
-
-## Example
 
 ## Tasks
 - [[coordinate with ben on garden stewart 02 followup|task.2022.02.11.coordinate-with-ben-on-garden-stewart-02-followup]]
 - ~ coordinate with aleksey
 - [[coordinate with luke on 02 followup|task.2022.02.11.coordinate-with-luke-on-02-followup]]
-
-
-
-BitCrusher#9178
