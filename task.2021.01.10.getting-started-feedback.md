@@ -2,7 +2,7 @@
 id: AOdAUO1ctHhcu3A8DVyT8
 title: Address Getting Started Feedback
 desc: ''
-updated: 1646589499057
+updated: 1646592587564
 created: 1641846074996
 tags:
   - scope.basics
@@ -11,6 +11,7 @@ tags:
   - sprint.active
 creator: derek
 status: wip
+priority: 'H'
 owner: derek
 pr: ''
 issue: ''
