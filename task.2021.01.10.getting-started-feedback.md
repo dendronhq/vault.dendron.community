@@ -53,7 +53,7 @@ After the 2021 Q4 Getting Started Guide refresh, [GitHub Discussion feedback](ht
 
 - [x] Provide a tip in the tutorial that **Dendron Paste Image** extension requires `xclip` or `wl-paste` cli tools
 - [ ] [[Getting Started Feedback|dendron://private/user.kevin.journal.2021.11.19.m.getting-started-feedback]]
-- [ ] Review [TGD PR](https://github.com/dendronhq/dendron-site/pull/408), feedback
+- [x] Review [TGD PR](https://github.com/dendronhq/dendron-site/pull/408), feedback
 
 ## Lookup
 
