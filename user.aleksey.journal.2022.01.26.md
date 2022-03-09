@@ -8,7 +8,7 @@ created: 1643154487611
 
 ## Tasks
 
--   [x] post CROP candidates to the `#feedback` channel on Wednesday; use [[sop.crop-community-issue.temp]]
+- [x] post CROP candidates to the `#feedback` channel on Wednesday; use [[sop.crop-community-issue.temp]]
 
 ## CROP
 
@@ -23,6 +23,6 @@ To vote, respond with a 1️⃣ 2️⃣ 3️⃣ or 4️⃣ to this message. _Vot
 
 ## Other
 
--   potential duplicates
-    -   [Set default frontmatter from schema · Issue #253 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/253)
-    -   [Set title of schema-instance automatically · Issue #2275 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/2275)
+- potential duplicates
+  - [Set default frontmatter from schema · Issue #253 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/253)
+  - [Set title of schema-instance automatically · Issue #2275 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/2275)
