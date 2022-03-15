@@ -5,18 +5,15 @@ desc: ''
 updated: 1642725959521
 created: 1642724623791
 tags:
-  - scope.docs
-  - type.chore
+  - scope.admin
+  - type.doc
   - sprint
   - kind.focus.docs
   - size.medium
-status: ''
-due: ''
-priority: ''
-owner: ''
+status: 'released'
+owner: 'derek'
 creator: derek
-issue: ''
-pr: ''
+pr: 'https://github.com/dendronhq/dendron-site/pull/404'
 card: 'https://github.com/orgs/dendronhq/projects/9#card-76437321'
 airtableId: recIlYuInIHFmxHlS
 ---
@@ -66,6 +63,9 @@ Contents:
 
 ## Tasks
 
+- [GitHub PR](https://github.com/dendronhq/dendron-site/pull/404)
+- Completed: [`documentation.yml`](https://github.com/dendronhq/dendron-site/blob/master/.github/ISSUE_TEMPLATE/documentation.yml)
+  - Experience: [New `dendron-site` issue](https://github.com/dendronhq/dendron-site/issues/new/choose)
 
 ## Lookup
 
