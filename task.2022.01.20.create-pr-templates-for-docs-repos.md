@@ -5,16 +5,16 @@ desc: ''
 updated: 1642730191102
 created: 1642726212000
 tags:
-  - scope.docs
-  - type.chore
+  - scope.admin
+  - type.doc
   - sprint
   - kind.focus.docs
   - size.medium
 status: ''
 due: ''
 priority: ''
-owner: ''
-creator: derek
+owner: 'cconrad'
+creator: 'derek'
 issue: ''
 pr: ''
 card: 'https://github.com/orgs/dendronhq/projects/9#card-76441503'

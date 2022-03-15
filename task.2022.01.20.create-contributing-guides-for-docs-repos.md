@@ -5,8 +5,8 @@ desc: ''
 updated: 1642739068770
 created: 1642728017914
 tags:
-  - scope.docs
-  - type.chore
+  - scope.admin
+  - type.doc
   - sprint
   - kind.focus.docs
   - size.small
