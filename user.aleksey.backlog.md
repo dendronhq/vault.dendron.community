@@ -2,7 +2,7 @@
 id: xvfvbb8xgTk0gHlYSrFEm
 title: Backlog
 desc: ''
-updated: 1646794847819
+updated: 1647369070087
 created: 1643077961430
 ---
 
@@ -17,13 +17,15 @@ created: 1643077961430
 
 ### Tasks
 
+- [ ] reply to <https://github.com/dendronhq/dendron/issues/2242#issuecomment-1065969310>
+- [ ] update CROP description to remove the timeline commitment
 - [ ] think about better method (manual/automatic) for selecting CROP candidates for voting
 - [w] go over the full list of issues and look for CROP-worthy ones
-- [ ] start a log of CROPs in [[community.events.crop]]
+- [x] start a log of CROPs in [[community.events.crop]]
   - PR or push directly to wiki site?
 - [ ] #238 talks about propagating changes to the `title` property, not when renaming notes; I got confused
 - [ ] create an issue about alternative hierarchies for publishing <https://discord.com/channels/717965437182410783/752644230379470849/943922387626385408>
-- [ ] 381 vs 1393 (duplicates, need to close one)
+- [x] 381 vs 1393 (duplicates, need to close one)
 
 ### Questions
 
