@@ -2,7 +2,7 @@
 id: uRtC5iMjtGFLC8UiR0CZK
 title: Airtable
 desc: ''
-updated: 1644356470986
+updated: 1647542346861
 created: 1643164120738
 ---
 
@@ -17,9 +17,9 @@ created: 1643164120738
 ## Surveys
 
 ### Greenhouse Proposal
-- survey url: https://airtable.com/shrHMMl1NwefpM689?prefill_SurveyName=GreenhouseProposal
+- survey url: https://airtable.com/shrHMMl1NwefpM689?prefill_SurveyName=GreenhouseProposa&hide_SurveyName=truel
 - results url (password protected): https://airtable.com/shrgO4ss2quSnI1ij
 
 ### Greenhouse Request
-- survey url: https://airtable.com/shrig560yLNVSb79y?prefill_SurveyName=GreenhouseRequest
+- survey url: https://airtable.com/shrig560yLNVSb79y?prefill_SurveyName=GreenhouseReques&hide_SurveyName=truet
 - results url (password protected): https://airtable.com/shrtzYVmhaRBpJ1e0
