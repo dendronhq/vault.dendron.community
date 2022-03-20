@@ -10,7 +10,7 @@ tags:
   - sprint
   - kind
   - size
-status: ''
+status: 'x'
 due: ''
 priority: ''
 owner: ''
@@ -23,5 +23,5 @@ userIssueId: ''
 
 ## Tasks
 - [[coordinate with ben on garden stewart 02 followup|task.2022.02.11.coordinate-with-ben-on-garden-stewart-02-followup]]
-- ~ coordinate with aleksey
 - [[coordinate with luke on 02 followup|task.2022.02.11.coordinate-with-luke-on-02-followup]]
+- ~ coordinate with aleksey
