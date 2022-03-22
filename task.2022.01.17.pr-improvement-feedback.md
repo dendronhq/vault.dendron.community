@@ -27,8 +27,6 @@ airtableId: reckXkowt7x8LvVVx
 
 ## Tasks
 - [ ] [[Create Contributing.md File|dendron://dendron.community/task.2022.01.19.create-contributingmd-file]]
-- [ ] investigate launching test workspace instructions with https://volta.sh/ 
+- [D] investigate launching test workspace instructions with https://volta.sh/ 
 - [[update PR template to contain md compatible links|task.2022.01.20.update-pr-template-to-contain-md-compatible-links]]
 - [X] ~~*fix blank pages on developer docs*~~ [2022-01-20 10:35]
-
-
