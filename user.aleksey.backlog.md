@@ -2,7 +2,7 @@
 id: xvfvbb8xgTk0gHlYSrFEm
 title: Backlog
 desc: ''
-updated: 1647369070087
+updated: 1647452940683
 created: 1643077961430
 ---
 
@@ -17,8 +17,6 @@ created: 1643077961430
 
 ### Tasks
 
-- [ ] reply to <https://github.com/dendronhq/dendron/issues/2242#issuecomment-1065969310>
-- [ ] update CROP description to remove the timeline commitment
 - [ ] think about better method (manual/automatic) for selecting CROP candidates for voting
 - [w] go over the full list of issues and look for CROP-worthy ones
 - [x] start a log of CROPs in [[community.events.crop]]
