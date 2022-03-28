@@ -22,7 +22,7 @@ This is publicly documented at [[dev.process.issues]].
 
 ## Steps
 
-1. Select the 3 issues from [[dendron.tasks.crop]]
+1. Select the 3 issues from [CROP issues](https://github.com/dendronhq/dendron/labels/kind.crop)
 2. Send out the discord message in the #feedback channel on Wednesday using the [[CROP template|dendron://dendron.community/sop.crop-community-issue.temp]]
     - after sending the message, add the following reactions to the message 1️⃣2️⃣3️⃣4️⃣
     - create a thread for the message for people to post their suggestion for the fourth option.
