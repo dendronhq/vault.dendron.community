@@ -63,8 +63,11 @@ created: 1643077961430
   - [Auto-complete in Rename Note menu? · Issue #405 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/405)
   - [Links to nonexistent notes are not updated by refactor · Issue #422 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/422)
   - [Dendron doctor - get createddate from file attribute not now() · Issue #444 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/444)
-- potential CROP (ask)
+  - [Lookup stops working properly after pressing tab · Issue #2550 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/2550)
+  - [Lookup: Enable automatic space to '-' conversion upon note creation. · Issue #2514 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/2514)
+  - [Lookup: Missing space between note title and vault name · Issue #2467 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/2467) - a tiny QoL issues
 - obsolete
+- potential CROP (ask)
   - [Update Dendron Configure UI with latest configuration Values · Issue #416 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/416)
 - UX
   - [Graphical Schema Editor · Issue #249 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/249)

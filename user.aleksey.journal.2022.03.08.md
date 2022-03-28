@@ -6,6 +6,9 @@ updated: 1646854872557
 created: 1643140760032
 ---
 
+- [x] reply to <https://github.com/dendronhq/dendron/issues/2242#issuecomment-1065969310>
+- [x] update CROP description to remove the timeline commitment
+
 ## CROP
 
 - [Sorting Lookup results by modified date/name, ascending or descending · Issue #330 · dendronhq/dendron](https://github.com/dendronhq/dendron/issues/330)
