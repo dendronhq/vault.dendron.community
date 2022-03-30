@@ -10,7 +10,7 @@ tags:
   - sprint
   - kind.focus.dev
   - size
-status: 'review'
+status: 'released'
 due: ''
 priority: ''
 owner: 'kevin'
