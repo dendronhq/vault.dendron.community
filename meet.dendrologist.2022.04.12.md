@@ -2,30 +2,39 @@
 id: aido4zy0ccmd39fdaewzkpb
 title: '2022-04-12'
 desc: ''
-updated: 1649725918218
+updated: 1649729412886
 created: 1649725462384
 traitIds:
   - journalNote
+documentId: 1h7bb2HsN1tJczMsAPTsZobGIaffi0IA0YjH7-fKlE0o
+revisionId: >-
+  ALm37BXCW-eHJy56RO2dyzryCZz4L6fyDHipMcLHrLUVIAUIHVvIb3phdtHlLn9B7dEnpgdV6PH_HuAsNlmsJw
 ---
 
 ## Agenda
-- time for catchup
+- catchup
 - general updates
-- team updates
+- product updates
 - focus updates
 - discussions
 
 ## General 
 - meeting minutes are now in community vault and will be available publically
-- end of the meeting, we'll sync gdoc with note
+  - end of the meeting, we'll sync gdoc with note
+- team changes
+  - derek leaving
+  - jerry (head of growth) joining
+  - we'll be onboarding a full time product manager later this month
 
-## Team 
-- derek & jerry
+## Product
+- last month, the team focus was on performance and stability
+- this month, we're focusing on onboarding (making it easier to accomplish common use cases, eg. todos, meetings, journals)
+- roll out self contained vaults, will start rolling out generally next week
 
 ## Focus
 
 ### Events
-- postponed event last month, will have publishing month EoM
+- postponed greenhouse last month, greenhouse this month will be on publishing workflows
 
 ### Issues
 - two more crop votes, one shipped crop and one WIP
@@ -40,8 +49,10 @@ traitIds:
 - some updates to pkm.dendron
 
 ## Discussion 
-
-- there's a lot we want to do, currently figuring out issues around bandwidth
-- next big thing:
-  - we have lots of things in the wing
-    - custom css
+- what would you like to see from the team, process wise? (especially since we'll be having a pm very soon)
+  - some initiatives we're thiking about
+    - public road map
+    - public issues list (frequently brought up questions on discord)
+    - more structure for focus areas (eg. milestones and deliverables)
+- any issues we should be focusing more attention on?
+- anything else
