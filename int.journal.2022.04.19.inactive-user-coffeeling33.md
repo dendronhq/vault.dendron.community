@@ -2,10 +2,10 @@
 id: bzf8i2a13y0oejmz9u2mxmz
 title: Inactive User Coffeeling33
 desc: ''
-updated: 1650389557409
+updated: 1650390303232
 created: 1650389453551
 owner: kevin
-status: pending
+status: resolved
 source:
   url: null
 airtableReference: '[[Interaction|dendron://private/s.airtable.ref.users.interaction]]'
