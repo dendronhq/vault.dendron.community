@@ -2,11 +2,11 @@
 id: ebpudfrf6rg5uut75d29lhg
 title: Standard Documentation
 desc: ''
-updated: 1652803408417
+updated: 1653956165786
 created: 1651791209320
 documentId: 1DD6ROb22u-BpLeSY_WUlqedMqVCI25wm-gB6EXw0liI
 revisionId: >-
-  ALm37BVgmvBsP9mZcAMWNpdo8kdYFF4EfvXim0OXn9y_CcP0iLP1id9x06TJiv-P2tGeWo7QAme-uZC13lXULA
+  ALm37BW7VAZzSGhBaAheH7CbILKCGcs-bHKa36Lcv6j2ghpsb7cKWc7c9XUmVbA_QnTZWyg2avSgftzVn8h04w
 ---
 
 ## Summary
@@ -75,72 +75,15 @@ Resulting hierarchhy:
 
 ## Structure for Features
 
-All features today lie are added in the form `dendron.topic.{feature}`
+All features today are added in the form `dendron.topic.{feature}[.{sub-feature}|{sub-component}]`
 
 ### Sections
 
-These are heades for features and are directly inside `dendron.topic.{feature}`
+These are headers for features and are directly inside `dendron.topic.{feature}` (copy and paste the following into dendron to view)
 
-```md
-## Summary
-<!-- 
-- recommended: include a picture
-- eg: [[Summary|dendron://dendron.dendron-site/dendron.topic.publish#summary]]
-
-3 sentence description of the feature
--->
-
-## Use Cases
-<!--
-Bullet points with examples of how this feature could be used
--->
-
-## Features
-<!-- 
-- required: false
-- example: [[Features|dendron://dendron.dendron-site/dendron.topic.publish.features]]
-
-If the feature has sub features, list them out here 
--->
-
-### Limitations
-<!-- Optional. If there are any limitations to call out -->
-
-## Getting Started
-<!-- 
-- eg: [[Quickstart|dendron://dendron.dendron-site/dendron.topic.publish.quickstart]]
-
-How to get started using the feature. Should have a link to the quickstart doc
--->
-
-### Child Pages
-<!-- 
-Link to children 
-
-Should have following order
-
-- Concepts
-- Config
-- CLI
-- Commands
--->
-```
+`[[dendron://dendron.dendron-site/templates.topic]]`
 
 ### Children
-These are the children of features and are located in `dendron.topic.{feature}.*`
+These are the children of features and are located in `dendron.topic.{feature}.*` (copy and paste the following into dendron to view)
 
-- values in orders:
-    - quickstart: how to start using the feature (this is what is linked to under `Getting Started`)
-    - concepts: concepts this feature introduces
-    - config: relevant configuration
-    - cli: relevant cli
-        - eg: [[CLI|dendron://dendron.dendron-site/dendron.topic.publish.cli]]
-    - commands: commands in the page
-    - details: internal details about how the feature works
-    - migration: how to migrate (if applicable)
-    - faq: frequently asked questions
-    - tutorials
-    - howtos
-
-
-For `concepts`, `config`, `cli`, `commands`, the proposal is to have each individual `concept/config/cli/command` be a separate note. This makes it easy to refer to individual entities by themselves. See [[Configuration|dendron://dendron.dendron-site/dendron.topic.publish.config]] for an example
+`[[dendron://dendron.dendron-site/dendron.contribute.documentation.tutorial.top-level-feature#documenting-a-topic,1:#example]]`
