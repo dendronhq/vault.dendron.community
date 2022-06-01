@@ -2,7 +2,7 @@
 id: laldkad20m9s4yqp8nod2ls
 title: '2022-05-17'
 desc: ''
-updated: 1652922868905
+updated: 1653411414936
 created: 1652832979598
 traitIds:
   - journalNote
@@ -16,3 +16,9 @@ traitIds:
 4. None of these (if there's an issue you'd like to add to rotation, please reply with a Github issue).
 
 To vote, respond with a 1️⃣ 2️⃣ 3️⃣ or 4️⃣ to this message. _Voting closes Monday at noon Pacific Time_.
+
+---
+
+Time is up and the votes are in and the winner is: 3. ["Insert note" to insert frontmatter from template](https://github.com/dendronhq/dendron/issues/2311). 🎉
+
+Thank you everyone who has voted.
