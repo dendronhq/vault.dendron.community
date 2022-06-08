@@ -2,7 +2,7 @@
 id: ebpudfrf6rg5uut75d29lhg
 title: Standard Documentation
 desc: ''
-updated: 1654654962773
+updated: 1654655133769
 created: 1651791209320
 documentId: 1DD6ROb22u-BpLeSY_WUlqedMqVCI25wm-gB6EXw0liI
 revisionId: >-
@@ -82,8 +82,10 @@ All features today are added in the form `dendron.topic.{feature}[.{sub-feature}
 These are headers for features and are directly inside `dendron.topic.{feature}` (copy and paste the following into dendron to view)
 
 `[[dendron://dendron.dendron-site/templates.topic]]`
+[[dendron://dendron.dendron-site/templates.topic]]
 
 ### Children
 These are the children of features and are located in `dendron.topic.{feature}.*` (copy and paste the following into dendron to view)
 
 `[[dendron://dendron.dendron-site/dendron.contribute.documentation.tutorial.top-level-feature#documenting-a-topic,1:#example]]`
+[[Top Level Feature|dendron://dendron.dendron-site/dendron.contribute.documentation.tutorial.top-level-feature]]
