@@ -2,7 +2,7 @@
 id: ebpudfrf6rg5uut75d29lhg
 title: Standard Documentation
 desc: ''
-updated: 1653956165786
+updated: 1654654962773
 created: 1651791209320
 documentId: 1DD6ROb22u-BpLeSY_WUlqedMqVCI25wm-gB6EXw0liI
 revisionId: >-
@@ -46,17 +46,17 @@ Resulting hierarchhy:
         - ~~Navigation~~ 
             - > fold into Retrieve
         - ~~Organize~~ Structure 
-            - > Rename to `Structure`
+            - > Rename to `Structure (Organization and Format)`
         - ~~Refactoring~~ 
-            - > Fold into `Structure`
+            - > Fold into `Structure (Organization and Format)`
         - Sharing and Syncing
         - ~~Transferring~~ 
-            - > Rename to `Sharing and Sncing`
+            - > Rename to `Sharing and Syncing`
         - Extending
     - ~~dendron.principles~~  
         - > fold into `dendron` home page
     - ~~FAQ~~ 
-        - > move under `dendron.res`
+        - > move under `dendron.resource`
     - ~~dendron.contribute~~
         - > move to `contribute` (becomes top level hierarchy)
     - ~~dendron.guides~~
