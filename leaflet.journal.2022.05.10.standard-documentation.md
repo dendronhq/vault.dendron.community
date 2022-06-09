@@ -2,7 +2,7 @@
 id: ebpudfrf6rg5uut75d29lhg
 title: Standard Documentation
 desc: ''
-updated: 1654655133769
+updated: 1654788282296
 created: 1651791209320
 documentId: 1DD6ROb22u-BpLeSY_WUlqedMqVCI25wm-gB6EXw0liI
 revisionId: >-
@@ -19,6 +19,9 @@ This leaflet proposes some general guidelines for the Dendron public docs for th
 
 ## Concepts
 For the purposes of this discussion, howtos/reference/discussions/tutorials refer to the [four types of documentation](https://kevinslin.com/notes/y0swab2mazgi1793kp3v7f7)
+
+### Topic Branch
+A topic branch is a feature in Dendron. It is represented using [[dendron.topic]] hierarchy
 
 ## Details
 
