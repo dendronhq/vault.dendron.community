@@ -1,2 +1,6 @@
-
-.dendron.cache.*
+node_modules
+.dendron.*
+build
+seeds
+.next
+pods/service-connections
