@@ -2,7 +2,7 @@
 id: AOdAUO1ctHhcu3A8DVyT8
 title: Address Getting Started Feedback
 desc: ''
-updated: 1646719077915
+updated: 1655137694514
 created: 1641846074996
 tags:
   - scope.basics
@@ -44,7 +44,7 @@ After the 2021 Q4 Getting Started Guide refresh, [GitHub Discussion feedback](ht
 - [ ] Conclusions: Include links to VS Code, VSCode Extensions, and git/github topic/links. This could also include `awesome-dendron`, or sections of docs that include `awesome-dendron`.
 - [ ] Contextual UI (Quick Fix) tips
   - [ ] Refactoring section of tutorial should expand to include Contextual UI (Quick Fix) tips around the lightbult icon in the editor.
-  - [x] [[Rename Note|dendron://dendron.dendron-site/dendron.topic.refactoring#rename-note]]
+  - [x] [[Rename Note|dendron://dendron.dendron-site/dendron.topic.refactoring.commands.rename-note]]
   - [x] [[Header Selection|dendron://dendron.dendron-site/dendron.ref.commands#header-selection]]
   - [x] [[Copy Header Reference|dendron://dendron.dendron-site/dendron.ref.commands#copy-header-reference]]
   - [x] [[Header Operations|dendron://dendron.dendron-site/dendron.ref.commands#header-operations]]
