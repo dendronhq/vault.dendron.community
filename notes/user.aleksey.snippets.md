@@ -2,11 +2,13 @@
 id: apfhmzu0188cckshrsppk6g
 title: Snippets
 desc: ''
-updated: 1653411555837
+updated: 1654614238517
 created: 1652922979270
 ---
 
 The community has selected this issue as this week's [CROP](https://wiki.dendron.so/notes/tayowNP4tMvcqH7AraoQ4/) winner. 🎉
+
+---
 
 We are going to vote on this issue in [this week's round](@) of [CROP](https://wiki.dendron.so/notes/tayowNP4tMvcqH7AraoQ4/).
 
