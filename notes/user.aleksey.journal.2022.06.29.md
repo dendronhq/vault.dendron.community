@@ -2,7 +2,7 @@
 id: w1c6ilk8sijm6a97u4y5yk5
 title: '2022-06-29'
 desc: ''
-updated: 1656504889364
+updated: 1656957717814
 created: 1656503076459
 traitIds:
     - journalNote
@@ -19,3 +19,9 @@ options:
 -   [Allow `ctrl+enter` to work on normal links](https://github.com/dendronhq/dendron/issues/2670)
 -   [Create a keyboard shortcut to close Preview](https://github.com/dendronhq/dendron/issues/1438)
 -   [Allow mapping keybindings to custom task statuses](https://github.com/dendronhq/dendron/issues/2643)
+
+---
+
+Time is up and the votes are in and the winner is: 1. [Allow ctrl+enter to work on normal links](https://github.com/dendronhq/dendron/issues/2670) 🎉
+
+Thank you everyone who has voted.
