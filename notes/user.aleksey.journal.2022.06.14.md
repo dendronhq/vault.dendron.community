@@ -2,7 +2,7 @@
 id: 01oirdaokcfcwe8szb8nck3
 title: '14'
 desc: ''
-updated: 1655344638613
+updated: 1655812157085
 created: 1655260493814
 ---
 
@@ -21,6 +21,6 @@ This issue is featured in [this week's round](https://discord.com/channels/71796
 
 ---
 
-Time is up and the votes are in and the winner is:
+Time is up and the votes are in and the winner is: 1. [Merge Notes command](https://github.com/dendronhq/dendron/issues/906)
 
 Thank you everyone who has voted.
