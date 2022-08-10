@@ -2,7 +2,7 @@
 id: apfhmzu0188cckshrsppk6g
 title: Snippets
 desc: ''
-updated: 1655833946626
+updated: 1659026376660
 created: 1652922979270
 ---
 
@@ -28,3 +28,14 @@ Other entries participating in this CROP are
 See the [Discord thread](https://discord.com/channels/717965437182410783/739186036495876126/978703225362481216) for more information and vote counts.
 
 Thank you everyone who has voted.
+
+---
+
+@ServerNotify! It's CROP time (every other Wednesday). 🙂 Please vote for your favored community issue 👨‍🌾👩‍🌾:
+
+1.  [Allow Use of non-pretty Refs and pretty Refs in the same note](https://github.com/dendronhq/dendron/issues/2459)
+2.  [Generate backlinks for links in frontmatter](https://github.com/dendronhq/dendron/issues/1531)
+3.  [Add Ability To Tell Dendron Not To Change Note Title on "> Refactor Hierarchy" Command](https://github.com/dendronhq/dendron/issues/1288)
+4.  None of these (if there's an issue you'd like to add to rotation, please reply with a Github issue).
+
+To vote, respond with a 1️⃣ 2️⃣ 3️⃣ or 4️⃣ to this message. _Voting closes Monday at noon Pacific Time_.
