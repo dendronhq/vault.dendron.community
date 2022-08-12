@@ -2,7 +2,7 @@
 id: rGxyfV4CsCrkbXP5z5rkg
 title: Dendron Swag
 desc: ''
-updated: 1660267140955
+updated: 1660316733049
 created: 1642128425359
 tags:
   - type.other
@@ -25,6 +25,7 @@ pr: ''
 
 ## In flight
 - swag up mockup: https://mail.google.com/mail/u/0/#inbox/FMfcgzGqPplqtFKBWMtwBtXkZfLChmXzk
+- sticker mule: https://www.stickermule.com/artworks/11048108?token=3e2a12cd0fdfe3cbed67a9cfe267692a
 
 ## Ideas
 - mugs
