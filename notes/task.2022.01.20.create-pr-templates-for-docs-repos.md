@@ -13,8 +13,8 @@ tags:
 status: ''
 due: ''
 priority: ''
-owner: 'cconrad'
-creator: 'derek'
+owner: cconrad
+creator: derek
 issue: ''
 pr: ''
 card: 'https://github.com/orgs/dendronhq/projects/9#card-76441503'

@@ -10,8 +10,8 @@ tags:
   - sprint
   - kind.focus.docs
   - size.medium
-status: 'released'
-owner: 'derek'
+status: released
+owner: derek
 creator: derek
 pr: 'https://github.com/dendronhq/dendron-site/pull/404'
 card: 'https://github.com/orgs/dendronhq/projects/9#card-76437321'

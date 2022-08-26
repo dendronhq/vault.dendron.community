@@ -11,7 +11,7 @@ tags:
   - sprint.active
 creator: derek
 status: wip
-priority: 'H'
+priority: H
 owner: derek
 pr: ''
 issue: ''

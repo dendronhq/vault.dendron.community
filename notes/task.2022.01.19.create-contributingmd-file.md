@@ -10,10 +10,10 @@ tags:
   - sprint
   - kind.focus.dev
   - size
-status: 'released'
+status: released
 due: ''
 priority: ''
-owner: 'kevin'
+owner: kevin
 creator: kevin
 pr: 'https://github.com/dendronhq/dendron/pull/2567'
 airtableId: recmg5rMltlPCPPs4
