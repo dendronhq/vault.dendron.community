@@ -1,0 +1,13 @@
+{
+  "name": "dendron-community",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "repository": "git@github.com:dendronhq/org-workspace.git",
+  "author": "Kevin <kevin@dendron.so>"
+}
