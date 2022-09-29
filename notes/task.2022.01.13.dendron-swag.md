@@ -44,6 +44,7 @@ task.2022.01.13.dendron-swag.vendor.temp
 
 ## Ref
 - https://www.torontotees.com/
+- [swag rec](https://bookface.ycombinator.com/posts/57794)
 
 ## Next
 - [send personalized gifts](https://www.ongoody.com/)
