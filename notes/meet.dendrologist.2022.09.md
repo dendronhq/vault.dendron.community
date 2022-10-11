@@ -44,3 +44,9 @@ parentFolderId: 1L0MChy6tuHXZD8pY_ZQharNVc1AkewFB
 - simplification of existing features
 - migration to sqlite backend and new engine architecture
 - managed publishing
+
+- planning
+  - @hikchoi: agree with phase I
+    - there are companies that are making 
+
+    - https://www.warp.dev/
